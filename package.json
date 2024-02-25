@@ -1,0 +1,21 @@
+{
+  "name": "whisper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "whis1": "node ./whisper1.js",
+    "whis2": "node ./whisper2.js",
+    "whis3": "node ./whisper3.js",
+    "whis4": "node ./whisper4.js",
+    "whis5": "node ./whisper5.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mp3-cutter": "^1.0.6",
+    "openai": "^4.28.0"
+  }
+}
